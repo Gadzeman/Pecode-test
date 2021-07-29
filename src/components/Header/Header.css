@@ -1,0 +1,20 @@
+.header {
+    color: white;
+    background: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+.header__wrap {
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo {
+    font-size: 26px;
+}
+.header__menu {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
