@@ -1,0 +1,18 @@
+.characters__filter {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+.filter>li:hover .filter__menu {
+    display: block;
+}
+.filter__menu {
+    display: none;
+    width: 100px;
+    height: 85px;
+    position: absolute;
+    background: cadetblue;
+    color: white;
+    top: 140px;
+    border-radius: 6px;
+}

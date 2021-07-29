@@ -1,0 +1,11 @@
+.episodes {
+    display: flex;
+    justify-content: center;
+}
+.episodes__wrap {
+    width: 1110px;
+}
+.episodes__functions {
+    display: flex;
+    justify-content: space-around;
+}

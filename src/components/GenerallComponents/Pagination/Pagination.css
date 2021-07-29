@@ -1,0 +1,18 @@
+button {
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+    transition: 0.5s;
+}
+button:hover {
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.pagination {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

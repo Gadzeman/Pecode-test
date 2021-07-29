@@ -1,0 +1,18 @@
+.episode {
+    height: 30px;
+    border-bottom: solid 2px cadetblue;
+    cursor: pointer;
+    transition: 0.2s;
+    display: flex;
+    align-items: center;
+}
+.episode:first-child {
+    border-top: solid 2px cadetblue;
+}
+.episode:hover {
+    background: black;
+    color: white;
+    transition: 0.2s;
+    border-left: solid 10px cadetblue;
+    border-right: solid 10px cadetblue;
+}

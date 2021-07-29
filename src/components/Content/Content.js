@@ -1,8 +1,8 @@
 import React from 'react';
 import {Switch, Route} from "react-router-dom";
-import Home from "../Home/Home";
-import Characters from "../Characters/Characters";
-import Episodes from "../Episodes/Episodes";
+import Home from "./Home/Home";
+import Characters from "./Characters/Characters";
+import Episodes from "./Episodes/Episodes";
 import Locations from "../Locations/Locations";
 import WatchList from "../WatchList/WatchList";
 

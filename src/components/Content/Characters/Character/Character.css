@@ -1,0 +1,23 @@
+.character {
+    width: 220px;
+    margin-top: 20px;
+    padding: 5px;
+    border-bottom: solid cadetblue 4px;
+}
+.character h4 {
+    text-align: center;
+}
+.character img {
+    width: 220px;
+}
+.character__button {
+    display: flex;
+    justify-content: center;
+}
+.character button {
+    background: black;
+    color: white;
+}
+.character button:hover {
+    background: cadetblue;
+}

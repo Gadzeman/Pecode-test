@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    justify-content: center;
+}
+.home__wrap {
+    width: 1110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.home__wrap p {
+    width: 500px;
+    text-align: center;
+}

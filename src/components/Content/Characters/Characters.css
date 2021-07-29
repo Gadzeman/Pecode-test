@@ -1,0 +1,28 @@
+/*button {*/
+/*    width: 100px;*/
+/*    height: 30px;*/
+/*    cursor: pointer;*/
+/*    border: none;*/
+/*    transition: 0.5s;*/
+/*}*/
+/*button:hover {*/
+/*    background: black;*/
+/*    color: white;*/
+/*    transition: 0.5s;*/
+/*}*/
+.characters {
+    display: flex;
+    justify-content: center;
+}
+.characters__wrap {
+    width: 1110px;
+}
+.characters__functions {
+    display: flex;
+    justify-content: space-around;
+}
+.characters__display {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
