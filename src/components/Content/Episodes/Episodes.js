@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import "./Episodes.css"
-import Pagination from "../../GenerallComponents/Pagination/Pagination";
+import Pagination from "../Pagination/Pagination";
 import EpisodesFilter from "./EpisodesFilter/EpisodesFilter";
 import Episode from "./Episode/Episode";
 

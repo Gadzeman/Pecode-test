@@ -12,8 +12,8 @@ const Header = () => {
                 </ul>
                 <ul className={"header__menu"}>
                     <li onClick={() => history.push("/characters")}>Characters</li>
-                    <li onClick={() => history.push("/episodes")}>Episodes</li>
                     <li onClick={() => history.push("/locations")}>Locations</li>
+                    <li onClick={() => history.push("/episodes")}>Episodes</li>
                     <li onClick={() => history.push("/my-watch-list")}>My watch list</li>
                 </ul>
             </div>

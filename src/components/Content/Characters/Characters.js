@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import "./Characters.css"
 import CharacterDetails from "./CharacterDetails/CharacterDetails";
-import Pagination from "../../GenerallComponents/Pagination/Pagination";
+import Pagination from "../Pagination/Pagination";
 import CharactersFilter from "./CharactersFilter/CharactersFilter";
 import Character from "./Character/Character";
 

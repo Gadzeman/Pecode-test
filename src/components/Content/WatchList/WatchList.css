@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    justify-content: center;
+}
+.list__wrap {
+    width: 1110px;
+}
+.list ul {
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+}

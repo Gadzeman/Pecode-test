@@ -1,0 +1,11 @@
+.locations {
+    display: flex;
+    justify-content: center;
+}
+.locations__wrap {
+    width: 1110px;
+}
+.locations__functions {
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,8 @@
+.list__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 2px cadetblue solid;
+}
